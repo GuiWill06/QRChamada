@@ -4,6 +4,9 @@ import { StatusBar } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native'
 import  Routes  from './src/routes'
 
+/*
+  Estou testando aqui e fazendo commit.
+*/
 export default function App() {
   return (
     <NavigationContainer>
